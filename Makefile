@@ -1,5 +1,5 @@
 # === Variables ===
-NAME		= bin/game
+NAME		= bin/mini_hold_game
 
 CC			= cc
 CFLAGS		=  -g -Wall -Wextra -Werror -Iinclude
